@@ -25,7 +25,7 @@ The design of both the API and the data layer is up to you.
 - Please document some way to check your work against the requirements. This can
   be in the form of a list of endpoints with seeded data, automated tests, or
   some other proof. 
-- Please leverage some form of documentation (e.g., a README inline comments) to note any compromises you have
+- Please leverage some form of documentation (e.g., a README, inline comments) to note any compromises you have
   made in the course of developing your solution. (Ideal implementations are not
   expected from timeboxed prompts like this)
 - If you have partial work you'd like to include, feel free to leverage the
